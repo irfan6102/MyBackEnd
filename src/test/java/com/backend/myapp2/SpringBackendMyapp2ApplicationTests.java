@@ -1,0 +1,13 @@
+package com.backend.myapp2;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringBackendMyapp2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
